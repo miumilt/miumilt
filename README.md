@@ -15,7 +15,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=miumit&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="miumit trophies" />
 </p>
 
-
+<p align="center">
+  <img src="rr.gif" width="100%" />
+</p>
 
 ---
 
