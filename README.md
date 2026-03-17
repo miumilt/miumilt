@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm miumit 👋</h1>
-
 <h3 align="center">Android & Frontend Developer | Kotlin Enthusiast</h3>
 
 <!-- Исправленная печатная машинка (увеличена ширина до 800) -->
