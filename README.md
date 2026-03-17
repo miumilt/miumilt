@@ -9,18 +9,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<!-- Рабочие трофеи в стиле твоего профиля -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miumit&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="miumit trophies" />
-</p>
-
-<p align="center">
-  <img src="rr.gif" width="100%" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 <!-- Новый, идеальный блок с иконками (Skill Icons). Tailwind теперь точно работает! -->
 <p align="center">
@@ -28,6 +16,11 @@
     <img src="https://skillicons.dev/icons?i=android,kotlin,react,tailwind,js,ts,nodejs,git&perline=8" alt="My Skills" />
   </a>
 </p>
+
+<p align="center">
+  <img src="rrr.gif" width="100%" />
+</p>
+
 
 ---
 
