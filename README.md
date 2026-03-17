@@ -16,8 +16,6 @@
 </p>
 
 
-https://github.com/user-attachments/assets/70e9ba5a-e020-4ab1-b909-53f9c1ab394d
-
 
 ---
 
