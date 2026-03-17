@@ -15,6 +15,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=miumit&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="miumit trophies" />
 </p>
 
+
+https://github.com/user-attachments/assets/70e9ba5a-e020-4ab1-b909-53f9c1ab394d
+
+
 ---
 
 ## 🛠 Tech Stack
