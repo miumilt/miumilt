@@ -2,43 +2,45 @@
 
 <h3 align="center">Android & Frontend Developer | Kotlin Enthusiast</h3>
 
+<!-- Исправленная печатная машинка (увеличена ширина до 800) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=450&lines=Building+mobile+apps;Creating+beautiful+UI+with+Jetpack+Compose;Writing+Kotlin+and+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=800&lines=Building+mobile+apps;Creating+beautiful+UI+with+Jetpack+Compose;Writing+Kotlin+and+TypeScript" alt="Typing animation"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<!-- Рабочие трофеи в стиле твоего профиля -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miumit&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="miumit trophies" />
 </p>
 
 ---
 
 ## 🛠 Tech Stack
+<!-- Новый, идеальный блок с иконками (Skill Icons). Tailwind теперь точно работает! -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,react,tailwind,js,ts,nodejs,git&perline=8" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miumit&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miumit&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miumit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miumit&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-## 🐍 Snake
+## 📫 Connect with Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miumit/miumit/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-## 📫 Connect
-<p align="center">
-  <a href="https://t.me/miumiit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:dm6784563@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/miumiit">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:dm6784563@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
