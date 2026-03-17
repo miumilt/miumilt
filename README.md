@@ -1,74 +1,116 @@
-# 🐉 YourName / experienced coder
+# 👋 Hi, I'm miumit
+
+### Android & Frontend Developer | Kotlin Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=500&lines=Building+mobile+apps;Creating+beautiful+UI+with+Jetpack+Compose;Writing+Kotlin+and+TypeScript" alt="Typing animation"/>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#gh-dark-mode-only) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg#gh-dark-mode-only) ![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg#gh-dark-mode-only) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg#gh-dark-mode-only) ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg#gh-dark-mode-only) ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg#gh-dark-mode-only)
+### 📱 Mobile Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="60" title="Android"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" title="Android Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" title="Kotlin"/>
 
-### Tools & Databases
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only) ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg#gh-dark-mode-only) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#gh-dark-mode-only) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg#gh-dark-mode-only) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-dark-mode-only) ![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg#gh-dark-mode-only)
+### ⚛️ UI Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" title="Tailwind CSS"/>
 
-### IDEs & Editors
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg#gh-dark-mode-only) ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg#gh-dark-mode-only) ![Neovim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg#gh-dark-mode-only) ![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg#gh-dark-mode-only)
+### 🌐 Backend & Runtime
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="60" title="NPM"/>
+
+### 📜 Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3"/>
+
+### 🔧 Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="60" height="60" title="Gradle"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" title="Firebase"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miumit&theme=midnight-purple&border_radius=15&title_color=ff79c6&text_color=c0caf5&bg_color=0d1117&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miumit&theme=transparent&border_radius=20&title_color=00D9FF&text_color=ffffff&bg_color=0D1117,100,0D111700&hide_border=true&ring=00D9FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miumit&theme=transparent&border_radius=15&layout=donut&title_color=00D9FF&text_color=ffffff&bg_color=0D1117,100,0D111700&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Profile Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=miumit&theme=matrix&column=8&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miumit&theme=nord&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=miumit&theme=midnight-purple&bg_color=0d1117&color=ff79c6&line=bd93f9&point=c0caf5&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miumit&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00FFFF&area=true&areaColor=00D9FF30&hide_border=true)
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=miumit&theme=midnight-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=ff79c6&fire=ff79c6&currStreakNum=c0caf5&sideNums=c0caf5&streakLine=bd93f9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=miumit&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&streakLine=00D9FF&sideMsg=streak&type=stats&no-bg=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📝 Top Languages
+## 💬 About Me
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miumit&theme=midnight-purple&layout=compact&hide_border=false&border_radius=10&title_color=ff79c6&text_color=c0caf5&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   📱 Specialization: Android Development          │
+│   🎨 UI/UX: Jetpack Compose, Material Design 3   │
+│   🌐 Frontend: React, Tailwind CSS                │
+│   🔥 Passion: Clean code and beautiful design    │
+│                                                     │
+│   📍 Location: ???                              │
+│   💼 Status: [Open to work/Freelance/etc]        │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
+
+## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <a href="https://t.me/@miumiit">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:dm6784563@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kwork.ru/user/mrkistra">
+    <img src="https://img.shields.io/badge/Kwork-FF8C00?style=for-the-badge&logoColor=white" alt="Kwork"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/miumit/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<p align="center">
+  <i>Thanks for visiting! Don't forget to leave a ⭐</i>
 </p>
