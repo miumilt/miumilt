@@ -19,10 +19,6 @@
   <img src="rrr.gif" width="100%" />
 </p>
 
-
-<p align="center">
-  <img src="rrr.gif" width="100%" />
-</p>
 ---
 
 ## 📫 Connect with Me
