@@ -2,7 +2,7 @@
 
 <!-- Исправленная печатная машинка (увеличена ширина до 800) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=800&lines=Building+mobile+apps;Creating+beautiful+UI+with+Jetpack+Compose;Writing+Kotlin+and+TypeScript" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=800&lines=Building+mobile+apps;Creating+beautiful+UI+with+Jetpack+Compose;Writing+Kotlin" alt="Typing animation"/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 <!-- Новый, идеальный блок с иконками (Skill Icons). Tailwind теперь точно работает! -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,react,tailwind,js,ts,nodejs,git&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,swift,iphone,git&perline=8" alt="My Skills" />
   </a>
 </p>
 
