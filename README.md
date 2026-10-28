@@ -11,7 +11,7 @@
 <!-- Новый, идеальный блок с иконками (Skill Icons). Tailwind теперь точно работает! -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,swift,iphone,git&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,swift,apple,git&perline=8" alt="My Skills" />
   </a>
 </p>
 
