@@ -1,4 +1,4 @@
-<h3 align="center">Android & Frontend Developer | Kotlin Enthusiast</h3>
+<h3 align="center">Android & Aple Developer | Kotlin/Swift Enthusiast</h3>
 
 <!-- Исправленная печатная машинка (увеличена ширина до 800) -->
 <p align="center">
