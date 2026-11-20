@@ -23,7 +23,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://t.me/miumiit">
+  <a href="https://t.me/welcometobeijin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:dm6784563@gmail.com  ">
